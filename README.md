@@ -8,7 +8,7 @@
 - anat
 - sagar
 
-  **tech stack**
+  *tech stack*
 
   1. html
   2. css
