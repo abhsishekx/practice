@@ -5,7 +5,7 @@
 
 **team members**
 - aman
-- anat
+- anant
 - sagar
 
   *tech stack*
